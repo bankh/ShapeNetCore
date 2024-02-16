@@ -60,7 +60,19 @@ These scripts provide a systematic approach to enhancing a dataset with meaningf
   },
 ...
 ```
-The rest of the dataset can be found on [HuggingFace](https://huggingface.co/datasets/ShapeNet/ShapeNetCore) by completing the registration.
+The rest of the dataset can be found on [HuggingFace](https://huggingface.co/datasets/ShapeNet/ShapeNetCore) after completion of the registration.
+
+If you use this data, please cite the main ShapeNet technical report.
+```
+@techreport{shapenet2015,
+  title       = {{ShapeNet: An Information-Rich 3D Model Repository}},
+  author      = {Chang, Angel X. and Funkhouser, Thomas and Guibas, Leonidas and Hanrahan, Pat and Huang, Qixing and Li, Zimo and Savarese, Silvio and Savva, Manolis and Song, Shuran and Su, Hao and Xiao, Jianxiong and Yi, Li and Yu, Fisher},
+  number      = {arXiv:1512.03012 [cs.GR]},
+  institution = {Stanford University --- Princeton University --- Toyota Technological Institute at Chicago},
+  year        = {2015}
+}
+```
 
 **Reference:**
 - ShapeNet Dataset Repository: https://github.com/datasets-mila/datasets--shapenet/tree/master
+  
