@@ -9,8 +9,8 @@ This documentation outlines the process and logic of Python scripts developed fo
 `shapenet_json.py`: Adding Synset and Sub-Synset Names
 The first script aims to enrich a dataset by adding two columns by using the associated ids:
 
-SynsetName: The name of the synset associated with each synsetId in the dataset.
-SubSynsetName: The name of the sub-synset associated with each subSynsetId.
+SynsetName: The name of the synset associated with each synsetId in the dataset.  
+SubSynsetName: The name of the sub-synset associated with each subSynsetId.  
 
 How It Works
 - The script reads the source CSV file into a pandas DataFrame.
@@ -40,9 +40,9 @@ These scripts provide a systematic approach to enhancing a dataset with meaningf
 ```
 ...
   {
-    "synsetId": "02691156",
-    "name": "biplane,jet,propeller_plane,seaplane,bomber,delta_wing,fighter,airplane,airliner",
-    "children": [
+    "synsetId": "02691156", ## synsetId as groupname
+    "name": "biplane,jet,propeller_plane,seaplane,bomber,delta_wing,fighter,airplane,airliner", ## all the subsynsetNames
+    "children": [ ## unique susynsetIds
       20000000,
       20000001,
       20000002,
@@ -56,7 +56,7 @@ These scripts provide a systematic approach to enhancing a dataset with meaningf
       2691156,
       3174079
     ],
-    "numInstances": 2006
+    "numInstances": 2006 ## Total number of models in ShapeNetCore under the associated synsetId
   },
 ...
 ```
