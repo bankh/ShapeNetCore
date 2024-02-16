@@ -1,0 +1,637 @@
+[
+  {
+    "synsetId": "02691156",
+    "name": "biplane,jet,propeller_plane,seaplane,bomber,delta_wing,fighter,airplane,airliner",
+    "children": [
+      20000000,
+      20000001,
+      20000002,
+      2867715,
+      2690373,
+      4160586,
+      2842573,
+      4012084,
+      3595860,
+      3335030,
+      2691156,
+      3174079
+    ],
+    "numInstances": 2006
+  },
+  {
+    "synsetId": "02747177",
+    "name": "ashcan",
+    "children": [
+      2747177
+    ],
+    "numInstances": 322
+  },
+  {
+    "synsetId": "02773838",
+    "name": "bag",
+    "children": [
+      2773838
+    ],
+    "numInstances": 83
+  },
+  {
+    "synsetId": "02801938",
+    "name": "hamper,basket,wicker_basket",
+    "children": [
+      4582349,
+      2801938,
+      3482405
+    ],
+    "numInstances": 111
+  },
+  {
+    "synsetId": "02808440",
+    "name": "water_faucet,bathtub",
+    "children": [
+      2808440,
+      4559451
+    ],
+    "numInstances": 856
+  },
+  {
+    "synsetId": "02818832",
+    "name": "bunk,couch,platform_bed,berth,bed,bunk_bed",
+    "children": [
+      2920259,
+      3962852,
+      20000004,
+      20000006,
+      20000007,
+      2831724,
+      2818832,
+      3115762,
+      2920083
+    ],
+    "numInstances": 233
+  },
+  {
+    "synsetId": "02828884",
+    "name": "console_table,counter,bench,park_bench,kitchen_table,settle,pew,armchair,lawn_chair,worktable",
+    "children": [
+      3920867,
+      20000037,
+      2738535,
+      3620967,
+      20000040,
+      3649674,
+      20000041,
+      4603729,
+      3116530,
+      3092883,
+      2828884,
+      3891251,
+      20000022,
+      4177820
+    ],
+    "numInstances": 1808
+  },
+  {
+    "synsetId": "02843684",
+    "name": "birdhouse",
+    "children": [
+      2843684
+    ],
+    "numInstances": 73
+  },
+  {
+    "synsetId": "02871439",
+    "name": "bookshelf,dresser",
+    "children": [
+      20000010,
+      20000011,
+      3237340,
+      2871439
+    ],
+    "numInstances": 451
+  },
+  {
+    "synsetId": "02876657",
+    "name": "pop_bottle,wine_bottle,bottle,beer_bottle,jug",
+    "children": [
+      4591713,
+      2823428,
+      3983396,
+      3603722,
+      2876657
+    ],
+    "numInstances": 479
+  },
+  {
+    "synsetId": "02880940",
+    "name": "vase,bowl",
+    "children": [
+      4522168,
+      2880940
+    ],
+    "numInstances": 176
+  },
+  {
+    "synsetId": "02924116",
+    "name": "bus,school_bus,trolleybus",
+    "children": [
+      4487081,
+      2924116,
+      4146614
+    ],
+    "numInstances": 908
+  },
+  {
+    "synsetId": "02933112",
+    "name": "cabinet,china_cabinet,dresser",
+    "children": [
+      20000008,
+      20000009,
+      20000010,
+      20000011,
+      3018349,
+      2933112,
+      3237340
+    ],
+    "numInstances": 1543
+  },
+  {
+    "synsetId": "02942699",
+    "name": "digital_camera,camera,flash_camera",
+    "children": [
+      2942699,
+      3196062,
+      3358726
+    ],
+    "numInstances": 113
+  },
+  {
+    "synsetId": "02946921",
+    "name": "can,beer_can,pop_bottle,soda_can",
+    "children": [
+      2946921,
+      4255586,
+      3983396,
+      2823510
+    ],
+    "numInstances": 108
+  },
+  {
+    "synsetId": "02954340",
+    "name": "cap,baseball_cap",
+    "children": [
+      2799323,
+      2954340
+    ],
+    "numInstances": 56
+  },
+  {
+    "synsetId": "02958343",
+    "name": "hot_rod,limousine,beach_wagon,jeep,convertible,coupe,touring_car,racer,car,hatchback,ambulance,cab,minivan,school_bus,sedan,sport_utility,roadster,cruiser,sports_car",
+    "children": [
+      2958343,
+      4166281,
+      4285965,
+      3498781,
+      3119396,
+      4146614,
+      3770679,
+      3670208,
+      3594945,
+      4037443,
+      2814533,
+      3141065,
+      2701002,
+      2930766,
+      3100240,
+      4285008,
+      4097373,
+      3543394,
+      4459122
+    ],
+    "numInstances": 3545
+  },
+  {
+    "synsetId": "02992529",
+    "name": "cellular_telephone,radiotelephone,handset,desk_phone",
+    "children": [
+      4044498,
+      3488438,
+      3179910
+    ],
+    "numInstances": 488
+  },
+  {
+    "synsetId": "03001627",
+    "name": "folding_chair,chair,swivel_chair,straight_chair,chaise_longue,rocking_chair,armchair,lawn_chair",
+    "children": [
+      4099969,
+      2738535,
+      4373704,
+      3649674,
+      4331277,
+      20000015,
+      20000016,
+      20000027,
+      3376595,
+      20000020,
+      20000021,
+      20000022,
+      3002711,
+      20000025,
+      20000026,
+      3001627,
+      20000023
+    ],
+    "numInstances": 6591
+  },
+  {
+    "synsetId": "03046257",
+    "name": "clock,alarm_clock,clock_tower,pendulum_clock,wall_clock",
+    "children": [
+      2694662,
+      3047052,
+      3046257,
+      4548280,
+      3909406
+    ],
+    "numInstances": 651
+  },
+  {
+    "synsetId": "03085013",
+    "name": "computer_keyboard",
+    "children": [
+      3085013
+    ],
+    "numInstances": 64
+  },
+  {
+    "synsetId": "03207941",
+    "name": "dishwasher",
+    "children": [
+      3207941
+    ],
+    "numInstances": 93
+  },
+  {
+    "synsetId": "03211117",
+    "name": "screen,digital_display,monitor,display,display_panel,flat_panel_display",
+    "children": [
+      3211616,
+      3361380,
+      3211117,
+      3782190,
+      4152593,
+      3196598
+    ],
+    "numInstances": 1093
+  },
+  {
+    "synsetId": "03261776",
+    "name": "earphone",
+    "children": [
+      3261776
+    ],
+    "numInstances": 73
+  },
+  {
+    "synsetId": "03325088",
+    "name": "faucet,mixing_faucet,water_faucet",
+    "children": [
+      3325088,
+      4559451,
+      3775636
+    ],
+    "numInstances": 742
+  },
+  {
+    "synsetId": "03337140",
+    "name": "vertical_file,dresser,file,desk",
+    "children": [
+      20000010,
+      4529681,
+      3337140,
+      3179701,
+      3237340
+    ],
+    "numInstances": 298
+  },
+  {
+    "synsetId": "03467517",
+    "name": "guitar,acoustic_guitar",
+    "children": [
+      3467517,
+      2676566
+    ],
+    "numInstances": 797
+  },
+  {
+    "synsetId": "03513137",
+    "name": "football_helmet,helmet",
+    "children": [
+      3513137,
+      3379051
+    ],
+    "numInstances": 162
+  },
+  {
+    "synsetId": "03593526",
+    "name": "vase,wine_bottle,jar,jug",
+    "children": [
+      4522168,
+      4591713,
+      3603722,
+      3593526
+    ],
+    "numInstances": 564
+  },
+  {
+    "synsetId": "03624134",
+    "name": "knife,dagger,bayonet",
+    "children": [
+      2812949,
+      3624134,
+      3158885
+    ],
+    "numInstances": 424
+  },
+  {
+    "synsetId": "03636649",
+    "name": "table_lamp,floor_lamp,lamp",
+    "children": [
+      3636649,
+      3367059,
+      4380533
+    ],
+    "numInstances": 2316
+  },
+  {
+    "synsetId": "03642806",
+    "name": "laptop",
+    "children": [
+      3642806
+    ],
+    "numInstances": 451
+  },
+  {
+    "synsetId": "03691459",
+    "name": "woofer,loudspeaker,subwoofer,tweeter,watchtower",
+    "children": [
+      3691459,
+      4502670,
+      4556948,
+      4599124,
+      4349401,
+      20000027
+    ],
+    "numInstances": 1594
+  },
+  {
+    "synsetId": "03710193",
+    "name": "dresser,mailbox",
+    "children": [
+      3710193,
+      3237340
+    ],
+    "numInstances": 94
+  },
+  {
+    "synsetId": "03759954",
+    "name": "microphone",
+    "children": [
+      3759954
+    ],
+    "numInstances": 67
+  },
+  {
+    "synsetId": "03761084",
+    "name": "microwave,desk",
+    "children": [
+      3761084,
+      3179701
+    ],
+    "numInstances": 152
+  },
+  {
+    "synsetId": "03790512",
+    "name": "minibike,trail_bike,motorcycle",
+    "children": [
+      3790512,
+      3769722,
+      4466871
+    ],
+    "numInstances": 337
+  },
+  {
+    "synsetId": "03797390",
+    "name": "mug,coffee_mug",
+    "children": [
+      3797390,
+      3063599
+    ],
+    "numInstances": 214
+  },
+  {
+    "synsetId": "03928116",
+    "name": "piano,upright,grand_piano",
+    "children": [
+      4515003,
+      3928116,
+      3452741
+    ],
+    "numInstances": 239
+  },
+  {
+    "synsetId": "03938244",
+    "name": "pillow",
+    "children": [
+      3938244
+    ],
+    "numInstances": 96
+  },
+  {
+    "synsetId": "03948459",
+    "name": "revolver,pistol",
+    "children": [
+      4086273,
+      3948459
+    ],
+    "numInstances": 265
+  },
+  {
+    "synsetId": "03991062",
+    "name": "vase,jug,planter,pot",
+    "children": [
+      4522168,
+      3603722,
+      3957315,
+      3991062
+    ],
+    "numInstances": 602
+  },
+  {
+    "synsetId": "04004475",
+    "name": "electrostatic_printer,printer",
+    "children": [
+      4004475,
+      3280644
+    ],
+    "numInstances": 165
+  },
+  {
+    "synsetId": "04074963",
+    "name": "remote_control",
+    "children": [
+      4074963
+    ],
+    "numInstances": 66
+  },
+  {
+    "synsetId": "04090263",
+    "name": "sniper_rifle,revolver,rifle,carbine",
+    "children": [
+      4250224,
+      4086273,
+      2961451,
+      4090263
+    ],
+    "numInstances": 2373
+  },
+  {
+    "synsetId": "04099429",
+    "name": "rocket,missile",
+    "children": [
+      3773504,
+      4099429
+    ],
+    "numInstances": 85
+  },
+  {
+    "synsetId": "04225987",
+    "name": "skateboard",
+    "children": [
+      4225987
+    ],
+    "numInstances": 152
+  },
+  {
+    "synsetId": "04256520",
+    "name": "convertible,coffee_table,counter,settee,desk,daybed,straight_chair,armchair,sofa,love_seat",
+    "children": [
+      3063968,
+      3693474,
+      2738535,
+      4256520,
+      3165096,
+      4331277,
+      20000027,
+      3116530,
+      3179701,
+      3100346,
+      4177755,
+      20000028,
+      20000029,
+      20000030
+    ],
+    "numInstances": 3159
+  },
+  {
+    "synsetId": "04330267",
+    "name": "stove",
+    "children": [
+      4330267
+    ],
+    "numInstances": 218
+  },
+  {
+    "synsetId": "04379243",
+    "name": "coffee_table,table_lamp,straight_chair,drop-leaf_table,tea_table,worktable,counter,pool_table,silo,table,card_table,kitchen_table,conference_table,altar,console_table,desk,table-tennis_table,swivel_chair,pedestal_table,stand,armchair",
+    "children": [
+      20000010,
+      4331277,
+      3092883,
+      4381587,
+      3063968,
+      20000036,
+      20000037,
+      20000038,
+      20000039,
+      20000040,
+      20000041,
+      3179701,
+      3904060,
+      4301000,
+      4373704,
+      3090000,
+      4603729,
+      3246933,
+      4220250,
+      3982430,
+      3620967,
+      2738535,
+      4398951,
+      4379243,
+      2964075,
+      2699629,
+      3116530,
+      4380533
+    ],
+    "numInstances": 8397
+  },
+  {
+    "synsetId": "04401088",
+    "name": "radiotelephone,telephone,handset,desk_phone",
+    "children": [
+      4401088,
+      4044498,
+      3488438,
+      3179910
+    ],
+    "numInstances": 562
+  },
+  {
+    "synsetId": "04460130",
+    "name": "steeple,silo,clock_tower,tower,watchtower",
+    "children": [
+      4460130,
+      3047052,
+      4312432,
+      4556948,
+      4220250
+    ],
+    "numInstances": 123
+  },
+  {
+    "synsetId": "04468005",
+    "name": "subway_train,passenger_train,train,freight_train,car_train",
+    "children": [
+      4468005,
+      3896233,
+      3394480,
+      4349306,
+      2971579
+    ],
+    "numInstances": 389
+  },
+  {
+    "synsetId": "04530566",
+    "name": "yacht,patrol_boat,vessel,ship,sailing_vessel,fishing_boat,boat",
+    "children": [
+      2858304,
+      3900194,
+      4128837,
+      4530566,
+      4194289,
+      4610013,
+      3351262
+    ],
+    "numInstances": 1938
+  },
+  {
+    "synsetId": "04554684",
+    "name": "washer",
+    "children": [
+      4554684
+    ],
+    "numInstances": 167
+  }
+]
