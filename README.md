@@ -1,6 +1,6 @@
 # ShapeNetCore
 
-This documentation outlines the process and logic of Python scripts developed for enhancing a dataset stored in CSV format and validating model IDs against an external text file. At the end, these will generate the `taxonomy.json` file which is required by a lot of ShapeNetCore implementation. The workflow involves two primary steps:
+This documentation outlines the process and logic of Python scripts developed for enhancing a dataset stored in CSV format and validating model IDs against an external text file. At the end, these will generate the `taxonomy.json` file which is required by various implementation of ShapeNetCore. The workflow involves two primary steps:
 
 **Adding Synset Names to a CSV File:** The first script reads an input CSV file, adds additional columns with synset names and sub-synset names using the Natural Language Toolkit (NLTK)'s WordNet interface, and saves the enhanced dataset to a new CSV file.
 
