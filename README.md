@@ -60,3 +60,7 @@ These scripts provide a systematic approach to enhancing a dataset with meaningf
   },
 ...
 ```
+The rest of the dataset can be found on [HuggingFace](https://huggingface.co/datasets/ShapeNet/ShapeNetCore) by completing the registration.
+
+**Reference:**
+- ShapeNet Dataset Repository: https://github.com/datasets-mila/datasets--shapenet/tree/master
