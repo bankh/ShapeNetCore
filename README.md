@@ -13,11 +13,12 @@ SynsetName: The name of the synset associated with each synsetId in the dataset.
 SubSynsetName: The name of the sub-synset associated with each subSynsetId.
 
 How It Works
-The script reads the source CSV file into a pandas DataFrame.
-For each row in the DataFrame, it uses the synsetId and subSynsetId to fetch synset and sub-synset names from WordNet via NLTK.
-These names are added to new columns for each corresponding row.
-Progress is tracked and displayed as a percentage.
-The enhanced DataFrame is saved to a new CSV file (all_names.csv).
+- The script reads the source CSV file into a pandas DataFrame.
+- For each row in the DataFrame, it uses the synsetId and subSynsetId to fetch synset and sub-synset names from WordNet via NLTK.
+- These names are added to new columns for each corresponding row.
+- Progress is tracked and displayed as a percentage.
+- The enhanced DataFrame is saved to a new CSV file (all_names.csv).
+  
 ```shell
 $ python shapenet_json.py source_file.csv all_names.csv
 ```
@@ -31,7 +32,7 @@ How It Works
 - Counts the number of instances where the model ID is found in the set of valid model IDs.
 - Compiles this information into a list of dictionaries, each representing a synsetId with its name, children, and the count of validated models.
 - Outputs this list to a JSON file (targetjson).
-Usage
+
 ```shell
 $ python csv_to_json.py all_names.csv json_validation.txt targetjson.json
 ```
